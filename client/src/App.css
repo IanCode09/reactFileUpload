@@ -1,0 +1,16 @@
+label {
+    margin-right: 50px;
+}
+
+.form-input {
+    margin: 20px 0;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(44, 28, 41);
+    color: white;
+    outline: none;
+    padding: 5px 12px;
+}
